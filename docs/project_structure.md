@@ -1,6 +1,6 @@
 # Project Structure
 
-이 문서는 `SKN22-1st-3Team` 저장소의 전체 폴더 구성을 한눈에 파악할 수 있도록 정리한 것이다. (오타 주의: 파일명은 기존 계획에 맞춰 `project_structrue.md` 로 유지한다.)
+이 문서는 `SKN22-1st-3Team` 저장소의 전체 폴더 구성을 한눈에 파악할 수 있도록 정리한 것이다.
 
 ## Top-Level Layout
 
@@ -14,8 +14,7 @@ SKN22-1st-3Team/
 ├── src/
 ├── archive/
 ├── .github/
-├── .vscode/
-└── etc... (logs, SQL dump 등)
+└── .vscode/
 ```
 
 각 디렉터리의 주요 역할은 아래와 같다.
@@ -59,7 +58,7 @@ docs/
 └── ... (현재 문서 포함)
 ```
 
-모든 협업 문서는 Markdown/이미지 형식으로 보관된다.
+> docs/README.md 참조
 
 ## Source Directory (`src/`)
 
